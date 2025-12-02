@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "envision",
+  "base_artist": "YU",
+  "createdAt": "2025-12-02T09:02:43.636119Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Envision (Dixon Version)",
+      "artist": "Osunlade",
+      "has_synced": false,
+      "path": "select/01_Envision_(Dixon_Version)_Osunlade.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Envision (Âme Acoustic Remix)",
+      "artist": "Osunlade",
+      "has_synced": false,
+      "path": "select/02_Envision_(Âme_Acoustic_Remix)_Osunlade.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Envision (Âme‎ Acoustic Remix)",
+      "artist": "Osunlade",
+      "has_synced": false,
+      "path": "select/03_Envision_(Âme‎_Acoustic_Remix)_Osunlade.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Envision (Âme Remix)",
+      "artist": "Osunlade",
+      "has_synced": true,
+      "path": "select/04_Envision_(Âme_Remix)_Osunlade.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Envision (Âme‎ Remix)",
+      "artist": "Osunlade",
+      "has_synced": true,
+      "path": "select/05_Envision_(Âme‎_Remix)_Osunlade.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Envision the Divide",
+      "artist": "Kingdom of Sorrow",
+      "has_synced": false,
+      "path": "select/06_Envision_the_Divide_Kingdom_of_Sorrow.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Envision",
+      "artist": "After Forever",
+      "has_synced": true,
+      "path": "select/07_Envision_After_Forever.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Envision",
+      "artist": "Theatre of Tragedy",
+      "has_synced": true,
+      "path": "select/08_Envision_Theatre_of_Tragedy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Soar and Envision Sore Vision",
+      "artist": "Cryptopsy",
+      "has_synced": true,
+      "path": "select/09_Soar_and_Envision_Sore_Vision_Cryptopsy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Envision - Yoruba Soul Mix",
+      "artist": "Osunlade",
+      "has_synced": false,
+      "path": "select/10_Envision_-_Yoruba_Soul_Mix_Osunlade.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "envision",
+      "artist": "YU",
+      "has_synced": false,
+      "path": "select/pl_01_envision_YU.txt"
+    }
+  ]
+}
